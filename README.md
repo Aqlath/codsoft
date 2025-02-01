@@ -5,5 +5,4 @@
 <h1>TECHNOLOGY USED</h1>
 <UL>
   <li>python</li> 
-  <li>tkinter<li>
-</UL>
+  <li>tkinter<li></UL>
