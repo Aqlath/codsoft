@@ -4,6 +4,6 @@
 <br>
 <h1>TECHNOLOGY USED</h1>
 <UL>
-  <li>python</li>  |
-  <li>tkinter library<li></li>
+  <li>python</li> 
+  <li>tkinter library<li>
 </UL>
