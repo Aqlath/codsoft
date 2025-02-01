@@ -1,3 +1,5 @@
+#THIS IS THE PYTHON CODE FOR CALCULATOR
+
 #functions of calculator
 def add(n):
     result=n[0]
