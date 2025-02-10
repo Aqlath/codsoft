@@ -15,11 +15,18 @@ TASK-4 : ROCK-PAPER-SCISSORS GAME USING PYTHON <BR>
 
 <h1>STRUCTURE OF FILE</h1>
 codsoft python intership
+<br>
 |
+<br>
 |-python task(folder)
+<br>
 |  |-Task-1:TO-DO LIST
+<br>
 |  |-Task-2:CALCULATOR
+<br>
 |  |-Task-3:PASSWORD GENERATOR(Tkinter)
+<br>
 |  |-Task-4:ROCK-PAPER-SCISSORS
+<br>
 |-readme.md
 
