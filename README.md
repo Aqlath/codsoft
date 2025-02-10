@@ -13,3 +13,13 @@ TASK-2 : CALCULATOR <BR>
 TASK-3 : PASSWORD GENERATOR USING PYTHON(TKINTER) <BR>
 TASK-4 : ROCK-PAPER-SCISSORS GAME USING PYTHON <BR>
 
+<h1>STRUCTURE OF FILE</h1>
+codsoft python intership
+|
+|-python task(folder)
+|  |-Task-1:TO-DO LIST
+|  |-Task-2:CALCULATOR
+|  |-Task-3:PASSWORD GENERATOR(Tkinter)
+|  |-Task-4:ROCK-PAPER-SCISSORS
+|-readme.md
+
