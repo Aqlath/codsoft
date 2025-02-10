@@ -30,3 +30,9 @@ TASK-4 : ROCK-PAPER-SCISSORS GAME USING PYTHON <BR>
 <br>
 |-📜readme.md
 
+<h1>📌HOW TO RUN THE SCRIPTS</h1>
+1.Download or clone the repository <br>
+2.Navigate to the python task/ folder <br>
+3.Run the scripts using the given command line or any python IDE<br>
+        python (task name).py
+      
