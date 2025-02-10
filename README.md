@@ -35,4 +35,15 @@ TASK-4 : ROCK-PAPER-SCISSORS GAME USING PYTHON <BR>
 2.Navigate to the python task/ folder <br>
 3.Run the scripts using the given command line or any python IDE<br>
         python (task name).py
+
+<h1>🎯LEARNING OUTCOMES</h1>
+✔️Improved python programming skill <br>
+✔️Hands-on experience with real world problems <br>
+✔️Enhanced problem-solving skills <br>
+
+<h1>📬CONTACT</h1>
+for queries feel free to reach out at:<br>
+🔗linkedIn : https://www.linkedin.com/in/mohammed-aqlath-a-26baa3248
+
+
       
