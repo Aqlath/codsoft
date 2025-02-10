@@ -20,13 +20,13 @@ codsoft python intership
 <br>
 |-python task(folder)
 <br>
-|  |-Task-1:TO-DO LIST
+|    |-Task-1:TO-DO LIST
 <br>
-|  |-Task-2:CALCULATOR
+|    |-Task-2:CALCULATOR
 <br>
-|  |-Task-3:PASSWORD GENERATOR(Tkinter)
+|    |-Task-3:PASSWORD GENERATOR(Tkinter)
 <br>
-|  |-Task-4:ROCK-PAPER-SCISSORS
+|    |-Task-4:ROCK-PAPER-SCISSORS
 <br>
 |-readme.md
 
